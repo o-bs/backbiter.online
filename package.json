@@ -12,12 +12,10 @@
   },
   "author": "ungtb10d <16118736501@blckswan.no>",
   "license": "MIT",
-  "private": false,
   "bugs": {
     "url": "https://github.com/o-bs/backbiter.online/issues"
   },
   "homepage": "https://github.com/o-bs/backbiter.online#readme",
-  "devDependencies": {},
   "scripts": {
     "test": "tap **/*"
   },
